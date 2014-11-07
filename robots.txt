@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://ankin.github.io/blog/sitemap.xml 
+Sitemap: http://ankin.github.io//github/sitemap.xml 

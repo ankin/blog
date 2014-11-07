@@ -2,20 +2,20 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
-            http://ankin.github.io/blog/blog/2014/06/16/zombie-ninjas-attack-a-survivors-retrospective/
+            http://ankin.github.io//github/blog/2014/06/16/zombie-ninjas-attack-a-survivors-retrospective/
         </loc>
         <lastmod>2014-11-07T17:21:24+01:00</lastmod>
     </url>
     <url>
-        <loc>http://ankin.github.io/blog/blog/archives/</loc>
+        <loc>http://ankin.github.io//github/blog/archives/</loc>
         <lastmod>2014-11-07T17:21:24+01:00</lastmod>
     </url>
     <url>
-        <loc>http://ankin.github.io/blog/</loc>
+        <loc>http://ankin.github.io//github/</loc>
         <lastmod>2014-11-07T17:21:24+01:00</lastmod>
     </url>
     <url>
-        <loc>http://ankin.github.io/blog/robots.txt</loc>
+        <loc>http://ankin.github.io//github/robots.txt</loc>
         <lastmod>2014-11-07T17:21:24+01:00</lastmod>
     </url>
 </urlset>
